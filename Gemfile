@@ -10,7 +10,7 @@ when '4.1'
   gem 'devise', '>= 3.2'
 else
   gem 'rails', '~> 4.2.0'
-  gem 'sass-rails', '~> 5.0'
+  gem 'sass', '~> 3.4'
   gem 'devise', '>= 3.4'
 end
 
